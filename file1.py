@@ -1,6 +1,6 @@
-'''C=eval(input("Enter temperature:"))
+#C=eval(input("Enter temperature:"))
 F=C*9/5+32
-print("Temperature in Farenheit is:",F)'''
+print("Temperature in Farenheit is:",F)#
 
 
 '''name,sname,fname,mname=eval(input("Enter details:"))
